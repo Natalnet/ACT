@@ -12,12 +12,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Pesquisadores
 
-* Brenda
-* Debora
-  - Larissa
-     + Diego
-     + Debora IMD
-     + Rodrigo Luz
+* Klebson
 
 ## Módulos 
 
