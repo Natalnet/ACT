@@ -6,9 +6,8 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Análise do Comportamento, ABA, Tecnologias assistivas com foco em TEA, etc
 
 ## Coordenadores
-* Aquiles Burlamaqui
+* Prof. Dr. Aquiles Burlamaqui
 * Ligia Moraes
-* Akynara Aglaé
 
 
 ## Pesquisadores
